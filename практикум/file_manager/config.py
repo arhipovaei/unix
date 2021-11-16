@@ -1,0 +1,1 @@
+main_folder = "/Users/katya.arkhlpova3gmail.com/PycharmProjects/file_manager"
